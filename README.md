@@ -11,7 +11,7 @@
     <div align="center">
       <img src="https://github.com/user-attachments/assets/b1e78042-8548-4eb3-840f-a9acbcff020d" width="600" height="400" alt="image" />
     </div>
-   Adapted from "ColBERT- A Complete Guide" by V. Singh, 2024, Medium. Retrieved from https://medium.com/@varun030403/colbert-a-complete-guide-1552468335ae*
+   Taken from "ColBERT- A Complete Guide" by V. Singh, 2024, Medium. https://medium.com/@varun030403/colbert-a-complete-guide-1552468335ae*
 
 
 
