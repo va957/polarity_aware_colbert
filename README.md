@@ -9,11 +9,9 @@
    $s(q,d) = \sum_{i=1}^{N} max_{j=1}^{M} (E_{q_i} E_{d_j}^T)$.
 
     <div align="center">
-      <img src="https://github.com/user-attachments/assets/b1e78042-8548-4eb3-840f-a9acbcff020d" width="400" height="300" alt="image" />
+      <img src="https://github.com/user-attachments/assets/b1e78042-8548-4eb3-840f-a9acbcff020d" width="600" height="400" alt="image" />
     </div>
-   *Figure 1: The late-interaction mechanism of ColBERT. Adapted from
-   "ColBERT- A Complete Guide" by V. Singh, 2024, Medium. Retrieved from
-   https://medium.com/@varun030403/colbert-a-complete-guide-1552468335ae*
+   Adapted from "ColBERT- A Complete Guide" by V. Singh, 2024, Medium. Retrieved from https://medium.com/@varun030403/colbert-a-complete-guide-1552468335ae*
 
 
 
@@ -30,6 +28,11 @@
    where the index of the best matching document token, $j^*(i)$
 
    $j^*(i) = \arg\max_{j \in \{1, \dots, M\}} \big( E_{q_i}^T E_{d_j} \big)$
+
+   <div align="center">
+     <img src="https://github.com/user-attachments/assets/2d65fb33-b16f-4311-8e64-869962f95460" alt="Modified ColBERT Diagram" width="750" height="500" />
+   </div>
+
 
 
 
